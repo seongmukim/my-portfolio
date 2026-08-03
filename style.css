@@ -9,7 +9,7 @@
    좋아하는 색상 코드(Hex Code)로 변경해서 나만의 보드를 만들어 보세요!
 */
 :root {
-    --bg-color: #0f172a;       /* 전체 배경색 */
+    --bg-color: #3E46D6FF;       /* 전체 배경색 */
     --card-color: #1e293b;     /* 개별 카드 배경색 */
     --text-color: #f8fafc;     /* 글자 색상 */
     --accent-color: #6366f1;   /* 강조 테마 컬러 (Indigo) */
